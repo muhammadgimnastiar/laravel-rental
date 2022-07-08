@@ -1,6 +1,6 @@
 # Projek database tentang Rental mobil menggunakan laravel dan database relational.
 
-
+Database .sql: ![Klik Disini](https://github.com/muhammadgimnastiar/laravel-rental/blob/main/rental-db.sql)
 
 ![Laravel Rental Booking Screenshot](https://quickadminpanel.com/blog/wp-content/uploads/2020/04/Screen-Shot-2020-04-11-at-9.22.39-PM.png)
 
